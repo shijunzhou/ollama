@@ -1,6 +1,6 @@
 #pragma once
 
-// ggml-backend internal header
+// ggml-backend internal header, patch exercise
 
 #include "ggml-backend.h"
 
